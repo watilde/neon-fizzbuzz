@@ -1,0 +1,8 @@
+[package]
+name = "neon-fizzbuzz"
+version = "0.1.0"
+authors = ["Daijiro Wachi <daijiro.wachi@gmail.com>"]
+license = "MIT"
+
+[dependencies]
+neon = "0.1"

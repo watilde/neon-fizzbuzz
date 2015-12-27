@@ -1,0 +1,16 @@
+{
+  "name": "neon-fizzbuzz",
+  "version": "0.1.0",
+  "description": "A fizzbuzz module on Neon",
+  "main": "lib/index.js",
+  "scripts": {
+    "postinstall": "neon build"
+  },
+  "author": "Daijiro Wachi <daijiro.wachi@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/watilde/neon-fizzbuzz.git",
+  "dependencies": {
+    "neon-cli": "^0.1.1",
+    "neon-bridge": "^0.1.2"
+  }
+}

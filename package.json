@@ -4,7 +4,8 @@
   "description": "A fizzbuzz module on Neon",
   "main": "lib/index.js",
   "scripts": {
-    "postinstall": "neon build"
+    "build": "neon build",
+    "postinstall": "npm run build"
   },
   "author": "Daijiro Wachi <daijiro.wachi@gmail.com>",
   "license": "MIT",

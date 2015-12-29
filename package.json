@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": "https://github.com/watilde/neon-fizzbuzz.git",
   "dependencies": {
-    "neon-cli": "^0.1.1",
+    "neon-cli": "^0.1.2",
     "neon-bridge": "^0.1.2"
   }
 }
